@@ -1,16 +1,17 @@
-### Hi there 👋
+# Knowledge:
 
-<!--
-**xcalexxc/xcalexxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Design
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/xcalexxc/)](https://github.com/xcalexxc/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat-square&logo=javascript&link=https://github.com/xcalexxc/)](https://github.com/xcalexxc/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/xcalexxc/)](https://github.com/xcalexxc/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-5000FF?style=flat-square&logo=bootstrap&link=https://github.com/xcalexxc/)](https://github.com/xcalexxc/)
+[![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/xcalexxc/)](https://github.com/xcalexxc/)
 
-Here are some ideas to get you started:
+### Desktop programming
+[![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=Java&link=https://github.com/xcalexxc/)](https://github.com/xcalexxc/)
+[![Python](https://img.shields.io/badge/-Python-44bb66?style=flat-square&logo=Python&link=https://github.com/xcalexxc/)](https://github.com/xcalexxc/)
+[![Unity](https://img.shields.io/badge/-Unity-222222?style=flat-square&logo=Unity&link=https://github.com/xcalexxc/)](https://github.com/xcalexxc/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Database
+[![MySQL](https://img.shields.io/badge/-MySQL-99bbff?style=flat-square&logo=mysql&link=https://github.com/xcalexxc/)](https://github.com/xcalexxc/)
+[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/xcalexxc/)](https://github.com/xcalexxc/)
