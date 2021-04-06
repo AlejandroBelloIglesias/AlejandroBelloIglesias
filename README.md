@@ -14,5 +14,8 @@
 [![Unity](https://img.shields.io/badge/-Unity-222222?style=flat-square&logo=Unity&link=https://github.com/xcalexxc/)](https://github.com/xcalexxc/)
 
 ### Database
-[![MySQL](https://img.shields.io/badge/-MySQL-99bbff?style=flat-square&logo=mysql&link=https://github.com/xcalexxc/)](https://github.com/xcalexxc/)
+[![MySQL](https://img.shields.io/badge/-MySQL-aaccff?style=flat-square&logo=mysql&link=https://github.com/xcalexxc/)](https://github.com/xcalexxc/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/xcalexxc/)](https://github.com/xcalexxc/)
+
+### Other technologies
+[![Git](https://img.shields.io/badge/-Git-dddddd?style=flat-square&logo=git&link=https://github.com/xcalexxc/)](https://github.com/xcalexxc/)
