@@ -1,13 +1,15 @@
-# Knowledge:
+# Hi! I'm Alex
+
+<div align="center" >
+  <a href="https://github.com/rafaballerini">
+  <img style="width:50%;" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlejandroBelloIglesias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><!--
+--><img style="width:50%;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroBelloIglesias&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+# This is my Knowledge:
 
 <!-- https://simpleicons.org/ -->
 <!-- https://imagecolorpicker.com/ -->
-
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlejandroBelloIglesias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroBelloIglesias&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ### Web Design
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/AlejandroBelloIglesias/)](https://github.com/AlejandroBelloIglesias/)
@@ -28,6 +30,7 @@
 
 ### Other technologies
 [![Git](https://img.shields.io/badge/-Git-dddddd?style=flat-square&logo=git&link=https://github.com/AlejandroBelloIglesias/)](https://github.com/AlejandroBelloIglesias/)
+[![Docker](https://img.shields.io/badge/-Docker-ddddff?style=flat-square&logo=docker&link=https://github.com/AlejandroBelloIglesias/)](https://github.com/AlejandroBelloIglesias/)
 
 [![XML](https://img.shields.io/badge/-XML-777777?style=flat-square&link=https://github.com/AlejandroBelloIglesias/)](https://github.com/AlejandroBelloIglesias/)
 [![DTD](https://img.shields.io/badge/-DTD-666666?style=flat-square&link=https://github.com/AlejandroBelloIglesias/)](https://github.com/AlejandroBelloIglesias/)
