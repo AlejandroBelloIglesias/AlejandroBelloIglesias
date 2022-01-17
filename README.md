@@ -31,6 +31,7 @@
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)](https://github.com/AlejandroBelloIglesias/)
 [![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate)](https://github.com/AlejandroBelloIglesias/)
 [![JSP](https://img.shields.io/badge/-JSP-222222?style=flat-square&logo=jsp)](https://github.com/AlejandroBelloIglesias/)
+[![JDBC](https://img.shields.io/badge/-JDBC-222222?style=flat-square&logo=jdbc)](https://github.com/AlejandroBelloIglesias/)
 
 ### *→ Other technologies*
 [![Git](https://img.shields.io/badge/-Git-dddddd?style=flat-square&logo=git)](https://github.com/AlejandroBelloIglesias/)
