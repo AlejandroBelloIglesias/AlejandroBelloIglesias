@@ -23,6 +23,7 @@
 [![Java](https://img.shields.io/badge/-Java-e76e00?style=flat-square&logo=Java)](https://github.com/AlejandroBelloIglesias/)
 [![Android](https://img.shields.io/badge/-Android-222222?style=flat-square&logo=Android)](https://github.com/AlejandroBelloIglesias/)
 [![Python](https://img.shields.io/badge/-Python-fed732?style=flat-square&logo=Python)](https://github.com/AlejandroBelloIglesias/)
+[![Lua](https://img.shields.io/badge/-Lua-ffffff?style=flat-square&logo=Lua)](https://github.com/AlejandroBelloIglesias/)
 [![Unity](https://img.shields.io/badge/-Unity-222222?style=flat-square&logo=Unity)](https://github.com/AlejandroBelloIglesias/)
 
 ### *→ Database & server-side programming*
