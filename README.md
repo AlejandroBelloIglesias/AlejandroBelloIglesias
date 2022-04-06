@@ -14,6 +14,7 @@
 ### *→ Web Design*
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/AlejandroBelloIglesias/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat-square&logo=javascript)](https://github.com/AlejandroBelloIglesias/)
+[![Vue JS](https://img.shields.io/badge/-Vue-118855?style=flat-square&logo=vue.js)](https://github.com/AlejandroBelloIglesias/)
 [![JQuery](https://img.shields.io/badge/-JQuery-114499?style=flat-square&logo=jquery)](https://github.com/AlejandroBelloIglesias/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://github.com/AlejandroBelloIglesias/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-4d2c6f?style=flat-square&logo=bootstrap)](https://github.com/AlejandroBelloIglesias/)
