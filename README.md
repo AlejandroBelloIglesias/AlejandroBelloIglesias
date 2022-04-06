@@ -29,8 +29,9 @@
 
 ### *→ Database & server-side programming*
 [![MySQL](https://img.shields.io/badge/-MySQL-aaccff?style=flat-square&logo=mysql)](https://github.com/AlejandroBelloIglesias/)
-[![MariaDB](https://img.shields.io/badge/-MariaDB-cead87?style=flat-square&logo=mariadb)](https://github.com/AlejandroBelloIglesias/)
+[![MariaDB](https://img.shields.io/badge/-MariaDB-CEAD88?style=flat-square&logo=mariadb)](https://github.com/AlejandroBelloIglesias/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)](https://github.com/AlejandroBelloIglesias/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-CEAD88?style=flat-square&logo=mongodb)](https://github.com/AlejandroBelloIglesias/)
 [![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate)](https://github.com/AlejandroBelloIglesias/)
 [![JSP](https://img.shields.io/badge/-JSP-222222?style=flat-square&logo=jsp)](https://github.com/AlejandroBelloIglesias/)
 [![JDBC](https://img.shields.io/badge/-JDBC-222222?style=flat-square&logo=jdbc)](https://github.com/AlejandroBelloIglesias/)
