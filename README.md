@@ -15,6 +15,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/AlejandroBelloIglesias/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat-square&logo=javascript)](https://github.com/AlejandroBelloIglesias/)
 [![Vue JS](https://img.shields.io/badge/-Vue-118855?style=flat-square&logo=vue.js)](https://github.com/AlejandroBelloIglesias/)
+[![Svelte](https://img.shields.io/badge/-Svelte-ffffff?style=flat-square&logo=svelte)](https://github.com/AlejandroBelloIglesias/)
 [![JQuery](https://img.shields.io/badge/-JQuery-114499?style=flat-square&logo=jquery)](https://github.com/AlejandroBelloIglesias/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://github.com/AlejandroBelloIglesias/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-4d2c6f?style=flat-square&logo=bootstrap)](https://github.com/AlejandroBelloIglesias/)
@@ -33,6 +34,8 @@
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)](https://github.com/AlejandroBelloIglesias/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-CEAD88?style=flat-square&logo=mongodb)](https://github.com/AlejandroBelloIglesias/)
 [![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate)](https://github.com/AlejandroBelloIglesias/)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-ffffff?style=flat-square&logo=fastapi)](https://github.com/AlejandroBelloIglesias/)
+[![Flask](https://img.shields.io/badge/-Flask-222222?style=flat-square&logo=flask)](https://github.com/AlejandroBelloIglesias/)
 [![JSP](https://img.shields.io/badge/-JSP-222222?style=flat-square&logo=jsp)](https://github.com/AlejandroBelloIglesias/)
 [![JDBC](https://img.shields.io/badge/-JDBC-222222?style=flat-square&logo=jdbc)](https://github.com/AlejandroBelloIglesias/)
 
