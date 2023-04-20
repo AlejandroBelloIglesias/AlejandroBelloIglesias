@@ -14,15 +14,14 @@
 ### *→ Web Design*
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/AlejandroBelloIglesias/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat-square&logo=javascript)](https://github.com/AlejandroBelloIglesias/)
-[![Vue JS](https://img.shields.io/badge/-Vue-118855?style=flat-square&logo=vue.js)](https://github.com/AlejandroBelloIglesias/)
 [![Svelte](https://img.shields.io/badge/-Svelte-ffffff?style=flat-square&logo=svelte)](https://github.com/AlejandroBelloIglesias/)
+[![Vue JS](https://img.shields.io/badge/-Vue-118855?style=flat-square&logo=vue.js)](https://github.com/AlejandroBelloIglesias/)
 [![JQuery](https://img.shields.io/badge/-JQuery-114499?style=flat-square&logo=jquery)](https://github.com/AlejandroBelloIglesias/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://github.com/AlejandroBelloIglesias/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-4d2c6f?style=flat-square&logo=bootstrap)](https://github.com/AlejandroBelloIglesias/)
-[![Wordpress](https://img.shields.io/badge/-Wordpress-0275a1?style=flat-square&logo=Wordpress)](https://github.com/AlejandroBelloIglesias/)
 
 ### *→ Desktop programming*
 [![Java](https://img.shields.io/badge/-Java-e76e00?style=flat-square&logo=Java)](https://github.com/AlejandroBelloIglesias/)
+[![Swift](https://img.shields.io/badge/-Swift-ffffff?style=flat-square&logo=Swift)](https://github.com/AlejandroBelloIglesias/)
 [![Android](https://img.shields.io/badge/-Android-222222?style=flat-square&logo=Android)](https://github.com/AlejandroBelloIglesias/)
 [![Python](https://img.shields.io/badge/-Python-fed732?style=flat-square&logo=Python)](https://github.com/AlejandroBelloIglesias/)
 [![Lua](https://img.shields.io/badge/-Lua-2211aa?style=flat-square&logo=Lua)](https://github.com/AlejandroBelloIglesias/)
@@ -45,7 +44,5 @@
 
 [![TCP-IP](https://img.shields.io/badge/-TCP_IP-AACCFF?style=flat-square)](https://github.com/AlejandroBelloIglesias/)
 
-[![JSON](https://img.shields.io/badge/-JSON-777777?style=flat-square)](https://github.com/AlejandroBelloIglesias/)
-[![XML](https://img.shields.io/badge/-XML-666666?style=flat-square)](https://github.com/AlejandroBelloIglesias/)
 [![DTD](https://img.shields.io/badge/-DTD-555555?style=flat-square)](https://github.com/AlejandroBelloIglesias/)
 [![XSD](https://img.shields.io/badge/-XSD-444444?style=flat-square)](https://github.com/AlejandroBelloIglesias/)
