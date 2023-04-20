@@ -12,37 +12,35 @@
 <!-- https://imagecolorpicker.com/ -->
 
 ### *→ Web Design*
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/AlejandroBelloIglesias/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat-square&logo=javascript)](https://github.com/AlejandroBelloIglesias/)
-[![Svelte](https://img.shields.io/badge/-Svelte-ffffff?style=flat-square&logo=svelte)](https://github.com/AlejandroBelloIglesias/)
-[![Vue JS](https://img.shields.io/badge/-Vue-118855?style=flat-square&logo=vue.js)](https://github.com/AlejandroBelloIglesias/)
-[![JQuery](https://img.shields.io/badge/-JQuery-114499?style=flat-square&logo=jquery)](https://github.com/AlejandroBelloIglesias/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-4d2c6f?style=flat-square&logo=bootstrap)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-JavaScript-222222?style=flat-square&logo=javascript)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-Svelte-ffffff?style=flat-square&logo=svelte)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-Vue-118855?style=flat-square&logo=vue.js)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-JQuery-114499?style=flat-square&logo=jquery)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-Bootstrap-4d2c6f?style=flat-square&logo=bootstrap)](https://github.com/AlejandroBelloIglesias/)
 
 ### *→ Desktop programming*
-[![Java](https://img.shields.io/badge/-Java-e76e00?style=flat-square&logo=Java)](https://github.com/AlejandroBelloIglesias/)
-[![Swift](https://img.shields.io/badge/-Swift-ffffff?style=flat-square&logo=Swift)](https://github.com/AlejandroBelloIglesias/)
-[![Android](https://img.shields.io/badge/-Android-222222?style=flat-square&logo=Android)](https://github.com/AlejandroBelloIglesias/)
-[![Python](https://img.shields.io/badge/-Python-fed732?style=flat-square&logo=Python)](https://github.com/AlejandroBelloIglesias/)
-[![Lua](https://img.shields.io/badge/-Lua-2211aa?style=flat-square&logo=Lua)](https://github.com/AlejandroBelloIglesias/)
-[![Unity](https://img.shields.io/badge/-Unity-222222?style=flat-square&logo=Unity)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-Java-e76e00?style=flat-square&logo=oracle)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-Swift-ffffff?style=flat-square&logo=Swift)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-Android-222222?style=flat-square&logo=Android)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-Python-fed732?style=flat-square&logo=Python)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-Lua-2211aa?style=flat-square&logo=Lua)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-Unity-222222?style=flat-square&logo=Unity)](https://github.com/AlejandroBelloIglesias/)
 
 ### *→ Database & server-side programming*
-[![MySQL](https://img.shields.io/badge/-MySQL-aaccff?style=flat-square&logo=mysql)](https://github.com/AlejandroBelloIglesias/)
-[![MariaDB](https://img.shields.io/badge/-MariaDB-CEAD88?style=flat-square&logo=mariadb)](https://github.com/AlejandroBelloIglesias/)
-[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)](https://github.com/AlejandroBelloIglesias/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-CEAD88?style=flat-square&logo=mongodb)](https://github.com/AlejandroBelloIglesias/)
-[![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate)](https://github.com/AlejandroBelloIglesias/)
-[![FastAPI](https://img.shields.io/badge/-FastAPI-ffffff?style=flat-square&logo=fastapi)](https://github.com/AlejandroBelloIglesias/)
-[![Flask](https://img.shields.io/badge/-Flask-222222?style=flat-square&logo=flask)](https://github.com/AlejandroBelloIglesias/)
-[![JSP](https://img.shields.io/badge/-JSP-222222?style=flat-square&logo=jsp)](https://github.com/AlejandroBelloIglesias/)
-[![JDBC](https://img.shields.io/badge/-JDBC-222222?style=flat-square&logo=jdbc)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-MySQL-aaccff?style=flat-square&logo=mysql)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-MariaDB-CEAD88?style=flat-square&logo=mariadb)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-MongoDB-CEAD88?style=flat-square&logo=mongodb)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-FastAPI-ffffff?style=flat-square&logo=fastapi)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-Flask-222222?style=flat-square&logo=flask)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-JSP-222222?style=flat-square&logo=jsp)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-JDBC-222222?style=flat-square&logo=jdbc)](https://github.com/AlejandroBelloIglesias/)
 
 ### *→ Other technologies*
-[![Git](https://img.shields.io/badge/-Git-dddddd?style=flat-square&logo=git)](https://github.com/AlejandroBelloIglesias/)
-[![Docker](https://img.shields.io/badge/-Docker-ddddff?style=flat-square&logo=docker)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-Git-dddddd?style=flat-square&logo=git)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-Docker-ddddff?style=flat-square&logo=docker)](https://github.com/AlejandroBelloIglesias/)
 
-[![TCP-IP](https://img.shields.io/badge/-TCP_IP-AACCFF?style=flat-square)](https://github.com/AlejandroBelloIglesias/)
-
-[![DTD](https://img.shields.io/badge/-DTD-555555?style=flat-square)](https://github.com/AlejandroBelloIglesias/)
-[![XSD](https://img.shields.io/badge/-XSD-444444?style=flat-square)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-DTD-555555?style=flat-square)](https://github.com/AlejandroBelloIglesias/)
+[![](https://img.shields.io/badge/-XSD-444444?style=flat-square)](https://github.com/AlejandroBelloIglesias/)
